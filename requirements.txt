@@ -1,0 +1,7 @@
+playwright>=1.45
+flask>=3.0
+apscheduler>=3.10,<4
+python-dotenv>=1.0
+tzdata
+# Optional but recommended: offline captcha OCR
+ddddocr>=1.4
